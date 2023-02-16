@@ -1,5 +1,5 @@
 const clientId = '78aaab70dd2b457e88e7646b78b1b6a2';
-const redirectURI = "https://spotifyjamz.netlify.app/callback/"
+const redirectURI = "https://spotifyjamz.netlify.app"
 
 let accessToken;
 
